@@ -1,2 +1,4 @@
 clac
 *.o
+build-fuzzing-scan/
+!build-fuzzing-scan/in

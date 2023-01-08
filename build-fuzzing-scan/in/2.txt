@@ -1,0 +1,21 @@
+6 17 13 2 + - *
+9 14 7 1 + - *
+17 2 /
+15 2 %
+2 3 ^
+17 ln
+17 log
+5 !
+7 sin
+8 cos
+9 tan
+7 asin
+8 acos
+9 atan
+7 5 atan2
+7 erf
+7 8 9 10 sum
+2 8 9 10 add
+8.7 ceil
+9.8 floor
+8.9 round

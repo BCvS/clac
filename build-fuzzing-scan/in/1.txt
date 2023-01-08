@@ -1,0 +1,38 @@
+1 1 +
+1 1 1 + swap
+1 1 1 + + swap
+1 1 1 + + + 
+1 1 1 + + + swap
+1 1 1 + swap /
+4 3 dup dup * . * , +
+1 ln
+1 ln 
+1 sin
+1 log
+1 cos
+1 tan
+1 asin
+1 acos
+1 atan
+1 atan2
+1 erf
+1 sum
+1 dup
+1 roll
+1 drop
+1 clear
+1 count
+1 _
+1 stash
+1 fetch
+1 .
+1 ,
+1 :
+1 ;
+1 !
+1 1 ^
+1 /
+1 1 /
+1 1 %
+1 1 -
+1 1 *
